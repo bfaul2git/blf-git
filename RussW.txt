@@ -1,4 +1,0 @@
-This is a test of version control using GITHUB.
-10/26/17
-
-...
